@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+  <title>classroom</title>
+  <link href="main.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <div class="wrapper">
+    <h1>Kids Coding Classroom</h1>
+    <ul class="panels">
+      <li>
+        <div class="front" style="background: #267df4">13 + 12</div>
+        <div class="back" style="background: #4c8fea">13 + 12 = 25</div>
+      </li>
+      <li>
+        <div class="front" style="background: #9126f4">34 - 14</div>
+        <div class="back" style="background: #a144f7">20</div>
+      </li>
+      <li>
+        <div class="front" style="background: #21bf3b">23 - 13</div>
+        <div class="back" style="background: #4dd763">10</div>
+      </li>
+      <li>
+        <div class="front" style="background: #c3333d">25 - 15</div>
+        <div class="back" style="background: #e74853">12</div>
+      </li>
+      <li>
+        <div class="front" style="background: #c3333d">10 + 11</div>
+        <div class="back" style="background: #e74853">21</div>
+      </li>
+      <li>
+        <div class="front" style="background: #21bf3b">21 + 14</div>
+        <div class="back" style="background: #4dd763">35</div>
+      </li>
+      <li>
+        <div class="front" style="background: #9126f4">19 - 6</div>
+        <div class="back" style="background: #a144f7">13</div>
+      </li>
+      <li>
+        <div class="front" style="background: #267df4">6 + 9</div>
+        <div class="back" style="background: #4c8fea">15</div>
+      </li>
+    </ul>
+  </div>
+</body>
